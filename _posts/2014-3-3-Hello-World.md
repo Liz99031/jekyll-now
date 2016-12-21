@@ -6,6 +6,7 @@ published: true
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
+A link to [ONMC](www.onmc.com). 
 
 > We loved with a love that was more than love
 
