@@ -13,7 +13,7 @@ Next you can update your site name, avatar and other options using the _config.y
 
 An image, located within /images
 
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+![an image alt text]({{ site.baseurl }}/_posts/sad puppy.jpg "an image title")
 
 1. Step 1
 2. Step 2 
