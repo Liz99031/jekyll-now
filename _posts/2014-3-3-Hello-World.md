@@ -7,6 +7,10 @@ published: true
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]![Confetti.JPG]({{site.baseurl}}/_posts/Confetti.JPG)
+###
+
+> We loved with a love that was more than love
+
 ({{ site.baseurl }})
 ##
 
