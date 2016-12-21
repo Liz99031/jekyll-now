@@ -11,7 +11,9 @@ Next you can update your site name, avatar and other options using the _config.y
 
 > Trust but Verify!
 
+An image, located within /images
 
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 
 1. Step 1
 2. Step 2 
