@@ -37,6 +37,8 @@ _Italics_
 
 ### Confetti!!  
 
+#### 7 Time Champ! 
+
 ```javascript
 /* Some pointless Javascript */
 var rawr = ["r", "a", "w", "r"];
