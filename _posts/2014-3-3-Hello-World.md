@@ -35,7 +35,13 @@ _Italics_
 
 ## Boom!
 
-### Confetti!!
+### Confetti!!  
+
+```javascript
+/* Some pointless Javascript */
+var rawr = ["r", "a", "w", "r"];
+```
+
 
 
 
