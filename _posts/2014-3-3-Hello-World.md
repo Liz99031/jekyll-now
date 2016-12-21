@@ -21,7 +21,10 @@ An image, located within /images
 - bears
 - cats
 - dogs
+
+
 **BOLD**
+
 _Italics_ 
 
 ## Title
