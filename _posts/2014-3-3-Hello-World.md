@@ -9,7 +9,7 @@ Next you can update your site name, avatar and other options using the _config.y
 
 > We loved with a love that was more than love
 
-> Trust but Verify!
+>> Trust but Verify!
 
 An image, located within /images
 
