@@ -22,6 +22,7 @@ An image, located within /images
 - cats
 - dogs
 
+A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
 **BOLD**
 
