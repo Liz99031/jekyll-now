@@ -9,6 +9,10 @@ Next you can update your site name, avatar and other options using the _config.y
 
 > We loved with a love that was more than love
 
+> Trust but Verify!
+
+
+
 1. Step 1
 2. Step 2 
 
