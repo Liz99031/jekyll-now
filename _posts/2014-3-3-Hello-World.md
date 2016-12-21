@@ -27,7 +27,7 @@ A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass lite
 
 **BOLD**
 
-_Italics_ 
+```_Italics_ 
 
 ## Title
 
