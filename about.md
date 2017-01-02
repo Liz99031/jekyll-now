@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 'Who Am I? '
+title: 'Who am I? '
 permalink: /about/
 published: true
 ---
 
-Some information about you!
+Lizard
 
-### More Information
+### Production
 
 A place to include any o###
 
