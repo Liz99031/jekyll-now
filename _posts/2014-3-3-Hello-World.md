@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Merriest of Christmas'!
+title: 'Happy 2017! '
 published: true
 ---
 
@@ -11,6 +11,8 @@ A link to [ONMC](www.onmc.com).
 > We loved with a love that was more than love
 
 >> Trust but Verify!
+
+>>> Under Promise, Over Deliver! 
 
 An image, located within /images
 
