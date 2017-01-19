@@ -20,6 +20,10 @@ The most basic coverage is for the dwelling or the house itself and any attached
 > - Expenses for a hotel stay or something similar for the duration of the repairs in case your house is damaged
 > - Personal liability and medical coverage which covers you against legal and medical damages in case someone is hurt on your property or incurs some damage
 
-[CNN](www.cnn.com)
+Sample Link: [CNN](www.cnn.com)
+
+### Header 3 ### 
+
+
 
 
